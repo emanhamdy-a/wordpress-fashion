@@ -1,0 +1,8 @@
+2020-10-12T00:50:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_products_page() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:12
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 12
+

@@ -1,0 +1,167 @@
+2020-10-07T05:42:24+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 253
+
+2020-10-07T05:42:37+00:00 CRITICAL Uncaught Error: Call to a member function the_post() on string in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:244
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 244
+
+2020-10-07T06:35:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\general-template.php on line 57
+
+2020-10-07T06:37:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php on line 776
+
+2020-10-07T06:55:52+00:00 CRITICAL syntax error, unexpected end of file in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 362
+
+2020-10-07T07:05:54+00:00 CRITICAL Uncaught Error: Call to undefined function blogifo() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:273
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 273
+
+2020-10-07T07:07:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_include_path() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:251
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 251
+
+2020-10-07T07:08:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_permalinkn() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:251
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 251
+
+2020-10-07T07:10:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_permlink() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:251
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 251
+
+2020-10-07T07:11:57+00:00 CRITICAL Uncaught Error: Call to undefined function the_permlink() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:251
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 251
+
+2020-10-07T07:36:56+00:00 CRITICAL syntax error, unexpected '>' in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 247
+
+2020-10-07T07:38:31+00:00 CRITICAL syntax error, unexpected '<' in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 244
+
+2020-10-07T07:56:18+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 291
+
+2020-10-07T08:08:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_rating() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:263
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 263
+
+2020-10-07T08:26:04+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_average_rating_html() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:265
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 265
+
+2020-10-07T08:28:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_average_rating_html() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:268
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 268
+
+2020-10-07T09:32:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_name() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:278
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 278
+
+2020-10-07T09:32:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_name() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:278
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 278
+
+2020-10-07T09:33:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_name() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:278
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 278
+
+2020-10-07T09:35:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_name() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:278
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 278
+
+2020-10-07T09:35:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_the_ID() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:276
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 276
+
+2020-10-07T09:36:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_the_ID() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:276
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 276
+
+2020-10-07T17:30:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\ReportExporter.php on line 8
+
+2020-10-07T20:02:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::is_new() in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php:253
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 253
+
+2020-10-07T21:04:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-10-07T21:28:10+00:00 CRITICAL Cannot redeclare woocommerce_custom_product_add_to_cart_text() (previously declared in F:\xampp\htdocs\1\wp-content\themes\store\functions.php:190) in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php on line 249
+
+2020-10-07T21:54:01+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce\loop\add-to-cart.php on line 36
+
+2020-10-07T21:56:45+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in F:\xampp\htdocs\1\wp-content\themes\store\woocommerce\loop\add-to-cart.php on line 32
+
+2020-10-07T21:57:27+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in F:\xampp\htdocs\1\wp-content\themes\store\functions.php on line 197
+
+2020-10-07T22:01:31+00:00 CRITICAL Uncaught Error: Call to undefined function html_entity_code() in F:\xampp\htdocs\1\wp-content\themes\store\functions.php:197
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-includes\class-wp-hook.php(289): woocommerce_custom_product_add_to_cart_text('Add to cart')
+#1 F:\xampp\htdocs\1\wp-includes\plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 F:\xampp\htdocs\1\wp-content\themes\store\woocommerce\loop\add-to-cart.php(32): WC_Product_Simple->add_to_cart_text()
+#4 F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1303): wc_get_template('loop/add-to-car...', Array)
+#6 F:\xampp\htdocs\1\wp-includes\class-wp-hook.php(287): woocommerce_template_loop_add_to_cart(Array)
+#7 F:\xampp\htdocs\1 in F:\xampp\htdocs\1\wp-content\themes\store\functions.php on line 197
+
+2020-10-07T23:38:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\Requests\Transport\cURL.php on line 441
+

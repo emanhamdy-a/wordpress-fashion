@@ -1,0 +1,68 @@
+2020-10-09T08:52:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2020-10-09T19:03:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\functions.php on line 5977
+
+2020-10-09T19:03:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\link-template.php on line 3394
+
+2020-10-09T20:58:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\login.php on line 71
+
+2020-10-09T20:58:38+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\login.php on line 72
+
+2020-10-09T20:59:16+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\login.php on line 72
+
+2020-10-09T20:59:20+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\login.php on line 72
+
+2020-10-09T21:00:02+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\login.php on line 72
+
+2020-10-09T22:31:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_account_endpoint_url(), 0 passed in F:\xampp\htdocs\1\wp-content\themes\store\header.php on line 80 and exactly 1 expected in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php:174
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-content\themes\store\header.php(80): wc_get_account_endpoint_url()
+#1 F:\xampp\htdocs\1\wp-includes\template.php(723): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\wp-includes\template.php(672): load_template('F:\\xampp\\htdocs...', true)
+#3 F:\xampp\htdocs\1\wp-includes\general-template.php(41): locate_template(Array, true)
+#4 F:\xampp\htdocs\1\wp-content\themes\store\page.php(1): get_header()
+#5 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include('F:\\xampp\\htdocs...')
+#6 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#7 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#8 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php on line 174
+
+2020-10-09T22:33:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_account_endpoint_url(), 0 passed in F:\xampp\htdocs\1\wp-content\themes\store\header.php on line 80 and exactly 1 expected in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php:174
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-content\themes\store\header.php(80): wc_get_account_endpoint_url()
+#1 F:\xampp\htdocs\1\wp-includes\template.php(723): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\wp-includes\template.php(672): load_template('F:\\xampp\\htdocs...', true)
+#3 F:\xampp\htdocs\1\wp-includes\general-template.php(41): locate_template(Array, true)
+#4 F:\xampp\htdocs\1\wp-content\themes\store\page.php(1): get_header()
+#5 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include('F:\\xampp\\htdocs...')
+#6 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#7 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#8 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php on line 174
+
+2020-10-09T22:33:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_account_endpoint_url(), 0 passed in F:\xampp\htdocs\1\wp-content\themes\store\header.php on line 80 and exactly 1 expected in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php:174
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-content\themes\store\header.php(80): wc_get_account_endpoint_url()
+#1 F:\xampp\htdocs\1\wp-includes\template.php(723): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\wp-includes\template.php(672): load_template('F:\\xampp\\htdocs...', true)
+#3 F:\xampp\htdocs\1\wp-includes\general-template.php(41): locate_template(Array, true)
+#4 F:\xampp\htdocs\1\wp-content\themes\store\front-page.php(1): get_header()
+#5 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include('F:\\xampp\\htdocs...')
+#6 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#7 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#8 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php on line 174
+
+2020-10-09T22:33:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_account_endpoint_url(), 0 passed in F:\xampp\htdocs\1\wp-content\themes\store\header.php on line 80 and exactly 1 expected in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php:174
+Stack trace:
+#0 F:\xampp\htdocs\1\wp-content\themes\store\header.php(80): wc_get_account_endpoint_url()
+#1 F:\xampp\htdocs\1\wp-includes\template.php(723): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\1\wp-includes\template.php(672): load_template('F:\\xampp\\htdocs...', true)
+#3 F:\xampp\htdocs\1\wp-includes\general-template.php(41): locate_template(Array, true)
+#4 F:\xampp\htdocs\1\wp-content\themes\store\woocommerce.php(1): get_header()
+#5 F:\xampp\htdocs\1\wp-includes\template-loader.php(106): include('F:\\xampp\\htdocs...')
+#6 F:\xampp\htdocs\1\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#7 F:\xampp\htdocs\1\index.php(17): require('F:\\xampp\\htdocs...')
+#8 {main}
+  thrown in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\wc-account-functions.php on line 174
+

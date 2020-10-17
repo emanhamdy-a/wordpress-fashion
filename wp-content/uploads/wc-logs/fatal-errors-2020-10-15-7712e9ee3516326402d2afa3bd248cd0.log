@@ -1,0 +1,8 @@
+2020-10-15T00:08:20+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in F:\xampp\htdocs\1\wp-content\themes\store\header.php on line 80
+
+2020-10-15T02:30:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\DataStore.php on line 8
+
+2020-10-15T02:30:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\wp-db.php on line 2024
+
+2020-10-15T02:30:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\wp-db.php on line 2024
+

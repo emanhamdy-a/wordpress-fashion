@@ -1,0 +1,8 @@
+2020-10-08T03:16:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-content\plugins\woocommerce\includes\class-wc-order.php on line 16
+
+2020-10-08T03:16:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-admin\includes\plugin.php on line 330
+
+2020-10-08T03:16:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in F:\xampp\htdocs\1\wp-includes\l10n.php on line 669
+
+2020-10-08T05:09:45+00:00 CRITICAL syntax error, unexpected end of file in F:\xampp\htdocs\1\wp-content\themes\store\functions.php on line 205
+

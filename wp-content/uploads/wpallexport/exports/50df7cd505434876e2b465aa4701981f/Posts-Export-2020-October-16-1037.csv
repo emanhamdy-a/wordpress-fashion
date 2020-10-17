@@ -1,0 +1,4 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink,"Image URL","Image Title","Image Caption","Image Description","Image Alt Text","Image Featured","Attachment URL",Categories,Tags,Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date","contact us","discount title","discount season","discount value","discount date","discount image","display discount"
+1,"Hello world!","<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->",,2020-10-07,post,http://localhost/1/2020/10/07/hello-world/,,,,,,,,Uncategorized,,publish,1,eman,0e0m0a0n0@gmail.com,,,hello-world,,,0,0,0,open,open,2020-10-07,,,,,,,
